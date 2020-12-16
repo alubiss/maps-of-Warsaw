@@ -1,1 +1,3 @@
-# maps-of-Warsaw
+# Maps of Warsaw
+
+some basics visualizations of Warsaw
